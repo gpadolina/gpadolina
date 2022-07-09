@@ -5,7 +5,7 @@
     - Owning process improvements in research and finance (loan servicing with zero interest) and participating in the functional design and testing of any system enhancements
     - Applying analytics holistically to enable our organization to be more strategic, find value and insights in our data, address complex questions, minimize risk exposure, maximize productivity, enhance business processes, and increase visibility in financial and operational performance
 - 🌱 I’m currently learning (and will always be a lifelong learner):
-    - How to efficiently utilize the power of the modern data stack including a cloud-based warehouse (Snowflake, AWS, GCP), a full managed ETL/ELT data pipeline (Fivetran, Rivery, AWS Glue, Stitch), a data transformation tool (dbt), and a data visualization tool (Tableau, Power BI)
+    - How to efficiently utilize the power of the modern data stack including a cloud-based warehouse (Snowflake, AWS, GCP, Azure), a full managed ETL/ELT data pipeline (Fivetran, Rivery, AWS Glue, Stitch), a data transformation tool (dbt), and a data visualization tool (Tableau, Power BI)
     - How to develop powerful, robust, and industry standard data science models
     - How to keep growing as an effective data scientist / machine learning engineer
 - 🎳 In my free time I like to:
