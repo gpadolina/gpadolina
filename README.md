@@ -2,7 +2,7 @@
 
 - 📫 How to reach me:
     - LinkedIn: https://www.linkedin.com/in/giovannipadolina/
-- 💻 Note that this is currently being updated as of 2/13/2024
+- 💻 Note that this is currently being updated as of 3/18/2024
 
 <!---
 gpadolina/gpadolina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
